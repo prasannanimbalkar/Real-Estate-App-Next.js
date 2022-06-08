@@ -1,7 +1,7 @@
 # Real Estate App
 
 ![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
-![alt text](https://github.com/prasannanimbalkar/Real-Estate-App-Next.js/blob/master/disp.jpg?raw=true)
+![alt text]([https://github.com/prasannanimbalkar/Real-Estate-App-Next.js/blob//master/project-images/disp.jpg?raw=true)
 
 
 
