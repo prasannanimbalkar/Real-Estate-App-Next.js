@@ -1,5 +1,5 @@
 {
-  "name": "realtor",
+  "name": "Real-ity",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -27,7 +27,7 @@
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2"
   },
-  "description": "![Real Estate](https://i.ibb.co/jTW4bFC/image.png)",
+  "description": "(https://raw.githubusercontent.com/prasannanimbalkar/Real-Estate-App-Next.js/master/project-images/disp.png)",
   "main": "next.config.js",
   "author": "",
   "license": "ISC"
